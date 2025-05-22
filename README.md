@@ -8,7 +8,7 @@
 
 **只需一句话，就能生成专业爆款短视频！**
 
-![](界面预览.jpg)
+![](main.jpg)
 
 ### 🚀为什么选择AI音视频生成器？ 
 
@@ -45,11 +45,11 @@
 
 **扫码立即下载体验 →**  
 
-![](https://files.mdnice.com/user/10393/528da770-ca66-466f-ab38-2b35817b5dbc.png)
+![](baidupan.png) 百度网盘下载
 
-![](https://files.mdnice.com/user/10393/037f3438-13bb-4596-9ac2-2adc10f0515f.png)
+![](ucpan.png) UC网盘下载
 
-![](https://files.mdnice.com/user/10393/dade79ad-3da9-4789-9cf4-0003747d119e.png)（服务微信：316716198，备注“AI视频”优先响应）  
+![](wxqr.jpg)（服务微信：316716198，备注“AI视频”优先响应）  
 
 ### 💡使用方便：双击`ai_video.exe`直接运行！！！（高级用户才需要修改配置）
 
