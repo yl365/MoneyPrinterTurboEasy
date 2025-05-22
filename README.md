@@ -10,8 +10,6 @@
 
 ![](界面预览.jpg)
 
-![](https://files.mdnice.com/user/10393/e60b818b-ef0c-49b5-a8f1-7ff580a40b8e.jpg)
-
 ### 🚀为什么选择AI音视频生成器？ 
 
 ✅ **省时省力，效率翻倍**  
