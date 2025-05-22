@@ -8,6 +8,8 @@
 
 **只需一句话，就能生成专业爆款短视频！**
 
+![](界面预览.jpg)
+
 ![](https://files.mdnice.com/user/10393/e60b818b-ef0c-49b5-a8f1-7ff580a40b8e.jpg)
 
 ### 🚀为什么选择AI音视频生成器？ 
@@ -45,15 +47,15 @@
 
 **扫码立即下载体验 →**  
 
-![](https://files.mdnice.com/user/10393/abcba5ff-a2d5-4c6b-8a7c-cfc456c161bc.png)
+![](https://files.mdnice.com/user/10393/528da770-ca66-466f-ab38-2b35817b5dbc.png)
 
 ![](https://files.mdnice.com/user/10393/037f3438-13bb-4596-9ac2-2adc10f0515f.png)
 
 ![](https://files.mdnice.com/user/10393/dade79ad-3da9-4789-9cf4-0003747d119e.png)（服务微信：316716198，备注“AI视频”优先响应）  
 
-### 💡使用方便
+### 💡使用方便：双击`ai_video.exe`直接运行！！！（高级用户才需要修改配置）
 
-用记事本打开`config.toml`，修改以下两个配置，然后双击运行`AI音视频生成器.exe`即可：
+用记事本打开`config.toml`，修改以下两个配置，然后双击运行`ai_video.exe`即可：
 
 1. Pexels_ApiKey配置，用于获取无版权的视频素材.获取地址：https://www.pexels.com/api/key/
 
