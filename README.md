@@ -20,9 +20,7 @@
 - 音色选择：男声稳重背书，女声温柔种草  
 - 视频尺寸：横屏竖屏一键切换，适配全平台规则  
 
-### 生成的视频效果
-<video src="https://github.com/yl365/MoneyPrinterTurboEasy/raw/refs/heads/main/output.mp4"></video>
-
+生成的视频效果见文件列表的《output.mp4》
 
 
 ### 💡真实用户案例 
