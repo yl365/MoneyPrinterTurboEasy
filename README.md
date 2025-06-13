@@ -49,11 +49,17 @@
 
 用记事本打开`config.toml`，修改以下两个配置，然后双击运行`ai_video.exe`即可：
 
-1. Pexels_ApiKey配置，用于获取无版权的视频素材.获取地址：https://www.pexels.com/api/key/
+### 1. 视频素材下载
 
-Pexels_ApiKey = "xxxxxxxxxxxx",
+\# pexels api 配置，用于获取视频素材。获取地址：https://www.pexels.com/api/key/ 
+\# 配置越多越好，随机选择一个，避免被限制；格式：["key1", "key2", "key3"]
+Pexels_ApiKey = []
 
-2. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：https://bailian.console.aliyun.com/?tab=model#/api-key
+\# Pixabay api 配置，用于获取视频素材。获取地址：https://pixabay.com/api/docs/
+\# 配置越多越好，随机选择一个，避免被限制；格式：["key1", "key2", "key3"]
+Pixabay_ApiKey = []
+
+### 2. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：https://bailian.console.aliyun.com/?tab=model#/api-key
 
 OpenAI_SK = "sk-xxxxxxxxxxxx"
 
