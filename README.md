@@ -21,7 +21,9 @@
 - 视频尺寸：横屏竖屏一键切换，适配全平台规则  
 
 ### 生成的视频效果
-<video src="output.mp4"></video>
+<video src="https://github.com/yl365/MoneyPrinterTurboEasy/raw/refs/heads/main/output.mp4"></video>
+
+
 
 ### 💡真实用户案例 
 
