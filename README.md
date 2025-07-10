@@ -2,13 +2,12 @@
 
 现在，**——只需一句话，就能生成专业爆款短视频！**
 
-**【💡特别提示：由于用户较多，使用默认的Pexels_ApiKey和Pixabay_ApiKey可能会限速，请使用自己独立的ApiKey保证良好速度。】**
-
 ![界面预览](界面预览2.png)
 
 【下载】百度网盘下载：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
 【下载】夸克网盘下载：https://pan.quark.cn/s/84404530ce43 下载速度快  
 【下载】UC网盘下载：https://drive.uc.cn/s/e9f8cee773a54?public=1 下载速度快   
+**【💡特别提示：由于用户较多，使用默认的Pexels_ApiKey和Pixabay_ApiKey可能会限速，请使用自己独立的ApiKey保证良好速度。】**
 
 ## 🚀为什么选择AI音视频生成器？ 
 
@@ -75,7 +74,7 @@ OpenAI_SK = "sk-xxxxxxxxxxxx"
 \# 代理服务器配置；正常不需要代理，如果速度很慢或者无法使用，请配置代理；格式：http://127.0.0.1:8080
 ProxyURL = ""
 
-### 4. 💡特别提示：由于用户较多，使用默认的Pexels_ApiKey和Pixabay_ApiKey可能会限速，请使用自己独立的ApiKey保证良好速度。
+### 4. 特别提示：由于用户较多，使用默认的Pexels_ApiKey和Pixabay_ApiKey可能会限速，请使用自己独立的ApiKey保证良好速度。
 
 ---
 
