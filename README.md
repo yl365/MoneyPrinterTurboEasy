@@ -75,7 +75,7 @@ OpenAI_SK = "sk-xxxxxxxxxxxx"
 \# 代理服务器配置；正常不需要代理，如果速度很慢或者无法使用，请配置代理；格式：http://127.0.0.1:8080
 ProxyURL = ""
 
-### 4. 特别提示：💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！
+### 4. 💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！
 
 ---
 
