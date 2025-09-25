@@ -6,7 +6,7 @@
 ![界面预览](界面预览2.png)
 
 【百度网盘下载】：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
-** 💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！ **
+💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！  
 
 ## 🚀为什么选择AI音视频生成器？ 
 
