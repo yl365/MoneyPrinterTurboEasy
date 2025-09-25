@@ -5,9 +5,7 @@
 
 ![界面预览](界面预览2.png)
 
-【下载】百度网盘下载：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
-【下载】夸克网盘下载：https://pan.quark.cn/s/84404530ce43 下载速度快  
-【下载】UC网盘下载：https://drive.uc.cn/s/e9f8cee773a54?public=1 下载速度快   
+【百度网盘下载】：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
 **【💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！】**
 
 ## 🚀为什么选择AI音视频生成器？ 
@@ -44,11 +42,6 @@
 ✅ 免费无限次生成200字以内的短视频  
 ✅ 专属客服1v1调优建议  
 ✅ 赠送超过100T各行业资料、电子书等  
-
-![下载地址二维码](下载地址二维码.jpg)  （服务微信：316716198，备注“AI视频”优先响应）   
-【下载】百度网盘下载：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
-【下载】夸克网盘下载：https://pan.quark.cn/s/84404530ce43 下载速度快  
-【下载】UC网盘下载：https://drive.uc.cn/s/e9f8cee773a54?public=1 下载速度快   
 
 ---
  
