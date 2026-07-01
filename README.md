@@ -3,7 +3,7 @@
 **现在，**   
 **只需一句话，就能生成专业爆款短视频！**
 
-![界面预览](界面预览2.png)
+![界面预览](ai_video.exe_20260701.png)
 
 【百度网盘下载】：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
 💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！  
@@ -56,7 +56,7 @@ Pexels_ApiKey = []
 \# 配置越多越好，随机选择一个，避免被限制；格式：["key1", "key2", "key3"]
 Pixabay_ApiKey = []
 
-### 2. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：https://bailian.console.aliyun.com/?tab=model#/api-key
+### 2. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：[阿里百炼](https://www.aliyun.com/minisite/goods?userCode=nr4hi4z3)
 
 OpenAI_SK = "sk-xxxxxxxxxxxx"
 
