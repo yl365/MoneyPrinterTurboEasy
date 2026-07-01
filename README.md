@@ -42,11 +42,15 @@
 ✅ 专属客服1v1调优建议  
 ✅ 赠送超过100T各行业资料、电子书等  
 
-## 💡使用方便：双击`ai_video.exe`直接运行！！！（高级用户才需要修改配置）
+## 💡使用方便：修改`config.toml`配置文件，然后双击`ai_video.exe`直接运行！！！
 
-用记事本打开`config.toml`，修改以下两个配置，然后双击运行`ai_video.exe`即可：
+用记事本打开`config.toml`，修改以下两个配置
 
-### 1. 视频素材下载
+### 1. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：[阿里百炼](https://www.aliyun.com/minisite/goods?userCode=nr4hi4z3)
+
+OpenAI_SK = "sk-xxxxxxxxxxxx"
+
+### 2. 视频素材下载
 
 \# pexels api 配置，用于获取视频素材。获取地址：https://www.pexels.com/api/key/ 
 \# 配置越多越好，随机选择一个，避免被限制；格式：["key1", "key2", "key3"]
@@ -56,17 +60,12 @@ Pexels_ApiKey = []
 \# 配置越多越好，随机选择一个，避免被限制；格式：["key1", "key2", "key3"]
 Pixabay_ApiKey = []
 
-### 2. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：[阿里百炼](https://www.aliyun.com/minisite/goods?userCode=nr4hi4z3)
-
-OpenAI_SK = "sk-xxxxxxxxxxxx"
-
 ### 3. 部分用户反馈视频下载很慢，现在进行了改进，支持配置代理服务器。
 
 \# 代理服务器配置；正常不需要代理，如果速度很慢或者无法使用，请配置代理；格式：http://127.0.0.1:8080
 ProxyURL = ""
 
 ### 4. 💡特别提示：由于用户较多，默认是大家共享使用软件内置的Pexels_ApiKey/Pixabay_ApiKey，可能会限速，请自己注册ApiKey独立使用，保证良好的速度！
-
 
 **让AI成为你的24小时内容创作管家，用科技重新定义短视频创作效率，把精力留给更重要的事！**  
 
