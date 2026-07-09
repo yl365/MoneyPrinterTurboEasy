@@ -3,7 +3,7 @@
 **现在，**   
 **只需一句话，就能生成专业爆款短视频！**
 
-![界面预览](ai_video.exe_20260701.png)
+![界面预览](ai_video.exe_20260709.png)
 
 【下载】百度网盘下载：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm  
 【下载】夸克网盘下载：https://pan.quark.cn/s/84404530ce43 下载速度快  
